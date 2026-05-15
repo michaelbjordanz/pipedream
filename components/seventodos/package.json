@@ -13,6 +13,6 @@
     "access": "public"
   },
   "dependencies": {
-    "axios": "^0.27.2"
+    "axios": "^0.31.1"
   }
 }

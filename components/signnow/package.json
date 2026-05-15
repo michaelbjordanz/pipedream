@@ -16,6 +16,6 @@
     "@pipedream/platform": "^3.1.0",
     "crypto": "^1.0.1",
     "form-data": "^4.0.0",
-    "uuid": "^10.0.0"
+    "uuid": "^14.0.0"
   }
 }
