@@ -23,6 +23,6 @@
     "@pipedream/platform": "^0.10.0",
     "crypto": "^1.0.1",
     "lodash-es": "^4.17.21",
-    "uuid": "^8.3.2"
+    "uuid": "^14.0.0"
   }
 }

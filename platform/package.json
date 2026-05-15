@@ -22,7 +22,7 @@
     "io-ts": "^2.0.0",
     "mime-types": "^3.0.1",
     "querystring": "^0.2.1",
-    "uuid": "^11.1.0"
+    "uuid": "^14.0.0"
   },
   "devDependencies": {
     "@octokit/core": "^3.6.0",
