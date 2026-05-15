@@ -15,6 +15,6 @@
     "@pipedream/platform": "^2.0.0",
     "mysql2": "^3.9.2",
     "mysql2-promise": "^0.1.4",
-    "uuid": "^8.3.2"
+    "uuid": "^14.0.0"
   }
 }
